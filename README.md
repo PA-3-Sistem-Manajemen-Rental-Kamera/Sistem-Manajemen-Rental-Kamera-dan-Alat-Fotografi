@@ -235,7 +235,8 @@
 <img width="3672" height="3092" alt="MENU USER 2 rev 3" src="https://github.com/user-attachments/assets/deb8a884-f001-4f64-874d-f9a8faa960ec" />
 
 ## 4.Menu Register
-<img width="326" height="792" alt="reg" src="https://github.com/user-attachments/assets/428d8766-b5ce-4d67-b2a1-654154e0350f" />
+<img width="393" height="1302" alt="reg" src="https://github.com/user-attachments/assets/a5b1c79d-3237-4f39-a474-3af42ebda454" />
+
 
 ## 5.Menu Keluar
 <img width="232" height="62" alt="Keluar" src="https://github.com/user-attachments/assets/ee8bc577-da62-4e03-8500-8dec0b24a157" />
