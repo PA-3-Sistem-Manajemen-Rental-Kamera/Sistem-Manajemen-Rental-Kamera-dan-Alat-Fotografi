@@ -1,12 +1,12 @@
 # ## Kelompok 3 
-# +-------------------------------------------+
-# | No |        Nama Lengkap     |    NIM     |
-# +----|-------------------------|------------+
-# | 1 | Muhammad Fahriel         | 2509116050 |
-# | 2 | Syafir Ahzami            | 2509116074 |
-# | 3 | Muhammad Farel Awaluddin | 2509116055 |
-# | 4 | Paschal Wijaya Salu      | 2209116058 |
-# +-------------------------------------------+
+# +--------------------------------------------+
+# | No |        Nama Lengkap      |    NIM     |
+# +----|--------------------------|------------+
+# | 1  | Muhammad Fahriel         | 2509116050 |
+# | 2  | Muhammad Farel Awaluddin | 2509116055 |
+# | 3  | Syafir Ahzami            | 2509116074 |
+# | 4  | Paschal Wijaya Salu      | 2209116058 |
+# +--------------------------------------------+
 
 
 import json
@@ -1017,3 +1017,4 @@ while True:
     
   except Exception as e:
     print(f"Terjadi kesalahan: {e}")
+
