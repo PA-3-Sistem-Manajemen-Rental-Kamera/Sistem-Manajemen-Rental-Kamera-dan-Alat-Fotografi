@@ -1,3 +1,14 @@
+# ## Kelompok 3 
+# +-------------------------------------------+
+# | No |        Nama Lengkap     |    NIM     |
+# +----|-------------------------|------------+
+# | 1 | Muhammad Fahriel         | 2509116050 |
+# | 2 | Syafir Ahzami            | 2509116074 |
+# | 3 | Muhammad Farel Awaluddin | 2509116055 |
+# | 4 | Paschal Wijaya Salu      | 2209116058 |
+# +-------------------------------------------+
+
+
 import json
 from prettytable import PrettyTable
 import time
@@ -40,12 +51,15 @@ except FileNotFoundError:
     akun = {
     "Admin": {
         "password": "Admin123",
-        "role": "admin"
-
+        "role": "admin",
+        "saldo": 0,
+        "pin" : "123456"
     },
     "User": {
         "password": "User123",
-        "role": "user"
+        "role": "user",
+        "saldo": 100000,
+        "pin" : "123456"
     }
 } 
     data_pelanggan= []
@@ -188,6 +202,9 @@ def register():
           print(Fore.RED + "Password harus terdiri dari minimal 6 karakter!")
           continue
       password_konfir = pwinput.pwinput(prompt="Masukan Kembali Password: ", mask="*").strip()
+      if password_konfir != password:
+          print(Fore.RED + "Password tidak sesuai!")
+          continue
       pin = str(pwinput.pwinput(prompt="Masukan Pin E-Wallet: ", mask="*").strip())
       if pin.isdigit() == False or len(pin) != 6:
           print(Fore.RED+ "PIN harus terdiri dari 6 digit angka!")
@@ -209,9 +226,11 @@ def register():
 ===============================================
 Berhasil membuat akun dengan username:{username}
 ===============================================""")
+        time.sleep(1.5)
         return
       else:
         print("Password atau Pin tidak sama!")
+
         continue    
   except KeyboardInterrupt:
       print("Error, CTRL+C")
@@ -927,7 +946,7 @@ def kembalikan_kamera(data_pelanggan=data_pelanggan, data_kamera=data_kamera):
     except Exception as e:
         print(f"Terjadi kesalahan: {e}")
 
-#BARIS PROGRAM UTAMA 
+#BARIS PROGRAM UTAMA !! rawrr
 os.system("cls")
 print(Fore.LIGHTMAGENTA_EX+"Lensakamu.exe | Version 1.0 | Copyright Kelompok 3B @2025")
 lines = [
@@ -998,5 +1017,3 @@ while True:
     
   except Exception as e:
     print(f"Terjadi kesalahan: {e}")
-    
-
