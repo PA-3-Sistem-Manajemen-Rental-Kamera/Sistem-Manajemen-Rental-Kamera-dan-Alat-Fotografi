@@ -95,7 +95,7 @@
 
 ---
 
-##  Output Terminal
+## Contoh Output Terminal
 
 #### Main Menu 
 <img width="753" height="495" alt="image" src="https://github.com/user-attachments/assets/a3d8d747-c9d8-4e16-85ad-92b8eabe34bc" />
@@ -184,5 +184,5 @@ Flowchart
 <img width="232" height="62" alt="Keluar" src="https://github.com/user-attachments/assets/ee8bc577-da62-4e03-8500-8dec0b24a157" />
 
 
-```## 🙌 Kredit
+## 🙌 Kredit
 Dibuat oleh **Kelompok 3B Sistem Informasi 2025**. Terima kasih untuk semua kontributor yang telah menyelesaikan Projek Akhir
