@@ -188,7 +188,7 @@
 <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/1565d564-7304-48fe-b76b-555bb2ae9c42" /><br>
 
 
-### Sewa Kamera — **QRIS** (ASCII QR)
+### Sewa Kamera - Simulasi **QRIS** (ASCII QR)
 
 <img width="906" height="866" alt="image" src="https://github.com/user-attachments/assets/8ce313a9-3293-491c-8324-201ef513b2ea" />
 
@@ -221,7 +221,7 @@
 ##  Shortcut & Tips Navigasi
 - **Admin**: `S` untuk **Simpan** perubahan → commit ke JSON
 - **User**: `S` (di menu sewa) membuka **Cari Kamera**
-- Gunakan **huruf besar/kecil** sesuai label menu; `X` untuk kembali/batal
+- Bebas gunakan **huruf besar/kecil** sesuai label menu; `X atau x` untuk kembali/batal
 
 ## Flowchart
 
