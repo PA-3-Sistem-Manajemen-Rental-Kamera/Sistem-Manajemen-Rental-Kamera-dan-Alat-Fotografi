@@ -37,7 +37,7 @@
   - **Sewa kamera** (metode bayar: **Saldo**/*QRIS*)
   - **Kembalikan kamera** (stok otomatis bertambah, status ke *Tersedia* bila stok > 0)
   - **Top Up** saldo (nominal preset / custom + verifikasi PIN)
-  - **Riwayat transaksi** pribadi
+  - **Riwayat transaksi(Invoice)** 
   - **Cari kamera**
 - **Pembayaran**
   - **Saldo**: potong saldo jika cukup & verifikasi PIN
