@@ -1,4 +1,4 @@
-# Lensakamu — Sistem Rental Kamera & Alat Fotografi (CLI)
+# Lensakamu - Sistem Rental Kamera & Alat Fotografi (CLI)
 
 <img width="906" height="311" alt="banner" src="https://github.com/user-attachments/assets/c251d7d5-1b79-4d6e-8af9-c568e5f5f5e0" />
 
