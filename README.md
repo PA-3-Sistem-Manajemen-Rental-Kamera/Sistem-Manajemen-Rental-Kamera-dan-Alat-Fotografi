@@ -226,7 +226,7 @@
 ## Flowchart
 
 ## 1.Menu Awal
-<img width="1457" height="972" alt="MENU UTAMA" src="https://github.com/user-attachments/assets/ac052807-e970-44a3-9762-1ea2f4e04b58" />
+<img width="1467" height="1312" alt="Menu utama rev drawio" src="https://github.com/user-attachments/assets/9a481616-c06e-481d-99f5-f3d25af11db5" />
 
 ## 2.Menu Admin
 <img width="4212" height="1070" alt="MENU ADMIN" src="https://github.com/user-attachments/assets/e70109f2-fea1-4423-a49f-f094fc558dcd" />
