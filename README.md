@@ -146,11 +146,13 @@
 **b. Gagal - Username sudah ada** <br/>
 
 <img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/aba7eed6-ef39-4271-a90a-a9d0fa1c63b8" />
+  
 **c. Gagal - PIN tidak valid** <br/>
 
 <img width="380" height="76" alt="image" src="https://github.com/user-attachments/assets/73ccdcef-9a32-4036-834c-78370ed6bdd2" />
 
 **d. Gagal - Password Kurang dari/ tidak sama** <br/>
+
 <img width="428" height="80" alt="image" src="https://github.com/user-attachments/assets/41438ff7-46de-4f3d-8ff4-5016b368b8fd" />
 <img width="380" height="144" alt="image" src="https://github.com/user-attachments/assets/5d0dc068-cd7e-456d-98f4-aebb77150d0b" />
 
