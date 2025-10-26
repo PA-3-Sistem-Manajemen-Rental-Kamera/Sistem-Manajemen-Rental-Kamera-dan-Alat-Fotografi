@@ -1,0 +1,44 @@
+{
+    "Admin": {
+        "password": "Admin123",
+        "role": "admin",
+        "saldo": 0,
+        "pin": "123456"
+    },
+    "User": {
+        "password": "User123",
+        "role": "user",
+        "saldo": 295000,
+        "pin": "123456"
+    },
+    "123456": {
+        "password": "123456",
+        "role": "user",
+        "saldo": 0,
+        "pin": "123456"
+    },
+    "": {
+        "password": "",
+        "role": "user",
+        "saldo": 0,
+        "pin": ""
+    },
+    "farel": {
+        "password": "farel123",
+        "role": "user",
+        "saldo": 100000,
+        "pin": "123321"
+    },
+    "syafir": {
+        "password": "syafir123",
+        "role": "user",
+        "saldo": 0,
+        "pin": "123456"
+    },
+    "Syafir": {
+        "password": "Syafir123",
+        "role": "user",
+        "saldo": 0,
+        "pin": "123456"
+    }
+}

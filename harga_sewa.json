@@ -1,0 +1,108 @@
+{
+    "Mirrorless": {
+        "Sony A6300": {
+            "harga": 175000,
+            "status": "Tersedia",
+            "stok": 7
+        },
+        "Sony A7ii": {
+            "harga": 240000,
+            "status": "Tersedia",
+            "stok": 3
+        },
+        "Sony A7R IV": {
+            "harga": 450000,
+            "status": "Tersedia",
+            "stok": 2
+        },
+        "Canon M50": {
+            "harga": 140000,
+            "status": "Tersedia",
+            "stok": 8
+        },
+        "Canon R6 II": {
+            "harga": 475000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "Canon R5 II": {
+            "harga": 800000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "Fujifilm XA-20": {
+            "harga": 120000,
+            "status": "Tersedia",
+            "stok": 2
+        },
+        "Fujifilm X-5T": {
+            "harga": 350000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "Nikon Z6": {
+            "harga": 450000,
+            "status": "Tersedia",
+            "stok": 3
+        }
+    },
+    "DSLR": {
+        "Canon 700D": {
+            "harga": 120000,
+            "status": "Tersedia",
+            "stok": 4
+        },
+        "Canon 60D": {
+            "harga": 120000,
+            "status": "Tersedia",
+            "stok": 3
+        },
+        "Canon 750D": {
+            "harga": 125000,
+            "status": "Tersedia",
+            "stok": 2
+        },
+        "Canon 1300D": {
+            "harga": 110000,
+            "status": "Tersedia",
+            "stok": 4
+        },
+        "Canon X7": {
+            "harga": 100000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "Nikon D5500": {
+            "harga": 125000,
+            "status": "Tersedia",
+            "stok": 3
+        },
+        "Nikon D7500": {
+            "harga": 260000,
+            "status": "Disewa",
+            "stok": 0
+        },
+        "Nikon D500": {
+            "harga": 350000,
+            "status": "Tersedia",
+            "stok": 1
+        }
+    },
+    "Cinema": {
+        "Sony FX30 Cinema Line": {
+            "harga": 400000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "Sony FX6 Cinema Line": {
+            "harga": 1200000,
+            "status": "Tersedia",
+            "stok": 1
+        },
+        "RED Epic-X Super35mm": {
+            "harga": 2000000,
+            "status": "Tersedia",
+            "stok": 1
+        }
+    }
+}
