@@ -110,25 +110,24 @@
 <img width="618" height="383" alt="image" src="https://github.com/user-attachments/assets/f55684c4-902b-415e-bf60-33e5fced9c9f" />
 
 ### List & Sorting Kamera (User)
->Termurah
+> Termurah & Termahal
 <img width="654" height="451" alt="image" src="https://github.com/user-attachments/assets/a40c2de1-a892-425f-9904-3a481abdd2a5" />
 
-<br> >Termahal
 <img width="619" height="441" alt="image" src="https://github.com/user-attachments/assets/6efef33b-8324-4f67-9284-b274ae0b9934" />
 
 
 ### Sewa Kamera
 <img width="740" height="518" alt="image" src="https://github.com/user-attachments/assets/fe0d8d9b-b820-477b-b0b9-0b5a0eca5530" />
 
-<br>>Bayar dengan **Saldo** (Berhasil)
+### Bayar dengan **Saldo** (Berhasil)
 <img width="506" height="421" alt="image" src="https://github.com/user-attachments/assets/3da47e5e-a314-47a6-8e1f-05ed60ff0518" />
 
 ### Sewa Kamera — **Saldo Tidak Cukup** → Top Up -> Bayar Lagi
-<br> >Saldo Tidak Cukup<br>
+<br> >Saldo Tidak Cukup <br>
 <img width="549" height="411" alt="image" src="https://github.com/user-attachments/assets/1281fae6-520a-4437-97af-0c9dda8f6092" /><br>
-<br> >Top Up<br>
+<br> >Top Up <br>
 <img width="483" height="333" alt="image" src="https://github.com/user-attachments/assets/e0ea4d93-099e-44f6-b41c-d191d89add0e" /><br>
-<br> >Bayar Lagi<br>
+<br> >Bayar Lagi <br>
 <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/1565d564-7304-48fe-b76b-555bb2ae9c42" /><br>
 
 
