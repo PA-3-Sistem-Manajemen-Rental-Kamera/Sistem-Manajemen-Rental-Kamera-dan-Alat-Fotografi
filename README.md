@@ -166,7 +166,7 @@
 - **User**: `S` (di menu sewa) membuka **Cari Kamera**
 - Gunakan **huruf besar/kecil** sesuai label menu; `X` untuk kembali/batal
 
-Flowchart
+## Flowchart
 
 ## 1.Menu Awal
 <img width="1457" height="972" alt="MENU UTAMA" src="https://github.com/user-attachments/assets/ac052807-e970-44a3-9762-1ea2f4e04b58" />
