@@ -131,7 +131,7 @@
 ---
 ---
 
-## Contoh Output Beberapa Fitur
+## Contoh Penggunaa Beberapa Fitur
 
 
 
@@ -139,15 +139,20 @@
 <img width="753" height="495" alt="image" src="https://github.com/user-attachments/assets/a3d8d747-c9d8-4e16-85ad-92b8eabe34bc" />
 
 ### Register 
-<br/>**a. Berhasil**
-<img width="524" height="401" alt="image" src="https://github.com/user-attachments/assets/f828af4e-c4b2-4daa-b9b1-53c256424b9e" /><br/>
-<br/>**b. Gagal - Username sudah ada**
-<img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/aba7eed6-ef39-4271-a90a-a9d0fa1c63b8" /><br/>
-<br/>**c. Gagal - PIN tidak valid**
-<img width="380" height="76" alt="image" src="https://github.com/user-attachments/assets/73ccdcef-9a32-4036-834c-78370ed6bdd2" /><br/>
-<br/>**d. Gagal - Password Kurang dari/ tidak sama**
-<img width="428" height="80" alt="image" src="https://github.com/user-attachments/assets/41438ff7-46de-4f3d-8ff4-5016b368b8fd" /><br/>
-<img width="380" height="144" alt="image" src="https://github.com/user-attachments/assets/5d0dc068-cd7e-456d-98f4-aebb77150d0b" /><br/>
+**a. Berhasil** <br/>
+
+<img width="524" height="401" alt="image" src="https://github.com/user-attachments/assets/f828af4e-c4b2-4daa-b9b1-53c256424b9e" />
+
+**b. Gagal - Username sudah ada** <br/>
+
+<img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/aba7eed6-ef39-4271-a90a-a9d0fa1c63b8" />
+**c. Gagal - PIN tidak valid** <br/>
+
+<img width="380" height="76" alt="image" src="https://github.com/user-attachments/assets/73ccdcef-9a32-4036-834c-78370ed6bdd2" />
+
+**d. Gagal - Password Kurang dari/ tidak sama** <br/>
+<img width="428" height="80" alt="image" src="https://github.com/user-attachments/assets/41438ff7-46de-4f3d-8ff4-5016b368b8fd" />
+<img width="380" height="144" alt="image" src="https://github.com/user-attachments/assets/5d0dc068-cd7e-456d-98f4-aebb77150d0b" />
 
 
 ### Login User (Sukses)
