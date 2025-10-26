@@ -1,8 +1,20 @@
+# Lensakamu — Sistem Rental Kamera & Alat Fotografi (CLI)
 
-# Lensakamu - Sistem Rental Kamera & Alat Fotografi (CLI)
+<img width="906" height="311" alt="banner" src="https://github.com/user-attachments/assets/c251d7d5-1b79-4d6e-8af9-c568e5f5f5e0" />
 
+> Aplikasi **terminal (CLI)** untuk mengelola rental kamera & alat fotografi dengan **login multi‑role (admin/user)**, **saldo e‑wallet + PIN**, pembayaran **Saldo/QRIS**, **CRUD inventori**, **riwayat transaksi**, **sort & search**, dan **persistensi JSON**.
 
-<img width="906" height="311" alt="image" src="https://github.com/user-attachments/assets/c251d7d5-1b79-4d6e-8af9-c568e5f5f5e0" />
+---
+
+## 👥 Kelompok 3B
+| No | Nama Lengkap | NIM |
+|----|--------------|-----|
+| 1 | Muhammad Fahriel | 2509116050 |
+| 2 | Syafir Ahzami | 2509116074 |
+| 3 | Muhammad Farel Awaluddin | 2509116055 |
+| 4 | Paschal Wijaya Salu | 2209116058 |
+
+---
 
 ---
 
@@ -93,12 +105,50 @@
 ]
 ```
 
+
+
+## ▶️ Cara Menjalankan
+1. **Siapkan Python 3.8+**
+2. **Install dependensi**
+   ```bash
+   pip install prettytable
+   pip install pwinput
+   pip install colorama
+   pip install qrcode_terminal
+   pip install os
+   pip instal sys
+   pip install time
+   ```
+3. **Pastikan file JSON ada di satu folder dengan file py**
+   - `rental kamera.FIX.py`
+   - `datalogin.json`
+   - `harga_sewa.json`
+   - `data_pelanggan.json`
+4. **Jalankan aplikasi**
+   ```bash
+   python "rental kamera.FIX.py"
+   ```
+---
 ---
 
-## Contoh Output Terminal
+## Contoh Output Beberapa Fitur
+
+
 
 #### Main Menu 
 <img width="753" height="495" alt="image" src="https://github.com/user-attachments/assets/a3d8d747-c9d8-4e16-85ad-92b8eabe34bc" />
+
+### Register 
+<br/>**a. Berhasil**
+<img width="524" height="401" alt="image" src="https://github.com/user-attachments/assets/f828af4e-c4b2-4daa-b9b1-53c256424b9e" /><br/>
+<br/>**b. Gagal - Username sudah ada**
+<img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/aba7eed6-ef39-4271-a90a-a9d0fa1c63b8" /><br/>
+<br/>**c. Gagal - PIN tidak valid**
+<img width="380" height="76" alt="image" src="https://github.com/user-attachments/assets/73ccdcef-9a32-4036-834c-78370ed6bdd2" /><br/>
+<br/>**d. Gagal - Password Kurang dari/ tidak sama**
+<img width="428" height="80" alt="image" src="https://github.com/user-attachments/assets/41438ff7-46de-4f3d-8ff4-5016b368b8fd" /><br/>
+<img width="380" height="144" alt="image" src="https://github.com/user-attachments/assets/5d0dc068-cd7e-456d-98f4-aebb77150d0b" /><br/>
+
 
 ### Login User (Sukses)
 
